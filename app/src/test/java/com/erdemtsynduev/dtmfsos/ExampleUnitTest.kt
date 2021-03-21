@@ -1,4 +1,4 @@
-package com.erdemtsynduev.phonemodem
+package com.erdemtsynduev.dtmfsos
 
 import org.junit.Test
 

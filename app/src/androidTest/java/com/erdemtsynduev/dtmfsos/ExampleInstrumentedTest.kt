@@ -1,4 +1,4 @@
-package com.erdemtsynduev.phonemodem
+package com.erdemtsynduev.dtmfsos
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

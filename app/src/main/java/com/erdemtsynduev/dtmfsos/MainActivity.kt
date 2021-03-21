@@ -1,4 +1,4 @@
-package com.erdemtsynduev.phonemodem
+package com.erdemtsynduev.dtmfsos
 
 import android.content.Intent
 import android.net.Uri
