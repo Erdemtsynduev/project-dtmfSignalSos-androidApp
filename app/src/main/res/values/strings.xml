@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">DTMF SOS</string>
     <string name="sos">SOS</string>
+    <string name="phone_number">Введите номер телефона для связи</string>
+    <string name="sos_dtmf_signal">,,,1111222333444555666777888999111222333444555666777888999</string>
+    <string name="prefix_phone_call">tel:</string>
 </resources>
