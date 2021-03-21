@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">DTMF SOS</string>
     <string name="sos">SOS</string>
-    <string name="phone_number">Введите номер телефона для связи</string>
+    <string name="phone_number">Для запуска сигнала SOS, необходимо ввести номер телефонна</string>
     <string name="sos_dtmf_signal">,,,1111222333444555666777888999111222333444555666777888999</string>
     <string name="prefix_phone_call">tel:</string>
+    <string name="auto_call_switch">Автозапуск звонка. Через 5 секунд</string>
 </resources>
